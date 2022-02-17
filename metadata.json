@@ -1,6 +1,6 @@
 {
   "name": "eyp-nscd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "eyp",
   "summary": "nscd deamon",
   "license": "Apache-2.0",
@@ -13,7 +13,7 @@
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7,8" ]
     },
     {
       "operatingsystem": "CentOS",
